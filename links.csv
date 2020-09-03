@@ -1,4 +1,19 @@
-order,title,link0
-1A,▶️ Introduction ,https://github.com/iamdarshshah/reactjs-course
-2A,Page 2,https://en.wikipedia.org/wiki/2
-2B,Page 3,
+order,title,link0,link1,link2
+1A,Introduction ,https://github.com/iamdarshshah/reactjs-course,https://frontendmasters.com,https://www.girlscript.tech/Scripts/images/causes/india_summit_logoNew.png
+1B,Course Overview,https://frontendmasters.com,https://github.com/iamdarshshah/reactjs-course-app,
+1C,Setup,https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b,,
+2A,What you'll learn,,,
+2B,What is React,,,
+2C,Why React?,,,
+2D,Basic React app using Pure JavaScript,,,
+2D,Getting Started,,,
+2E,Rendering Elements,,,
+2F,Components & Props,,,
+2G,Introducing JSX,,,
+2H,Intro to create-react-app,,,
+2I,State & Lifecycle methods,,,
+2J,Props vs State,,,
+2K,Concept of Virtual DOM in React,,,
+2L,Building a counter app using class components,,,
+2M,Data fetching in React,,,
+2N,Final Thoughts,,,
