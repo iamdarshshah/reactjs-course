@@ -109,6 +109,4 @@ const theme = merge(toTheme(funstonTheme), {
   }
 });
 
-console.log(theme);
-
 export default theme;

@@ -3,7 +3,7 @@ import { jsx } from "theme-ui";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
 import { graphql, StaticQuery } from "gatsby";
-import NextJSLogo from "../assets/React-icon.svg";
+import ReactJSLogo from "../assets/React-icon.svg";
 import ThemeSwitch from "../components/themeSwitch";
 // import jpg from "../../static/posterframe.jpg";
 
@@ -88,7 +88,7 @@ const TemplateWrapper = props => {
                 <div sx={{ px: 2 }}>
                   <Link to="/">
                     <div sx={{ width: "50px", color: "text" }}>
-                      <NextJSLogo />
+                      <ReactJSLogo />
                     </div>
                   </Link>
                 </div>

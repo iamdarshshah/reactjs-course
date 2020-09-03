@@ -1,1 +1,1 @@
-### ReactJS Bootcamp Notes
+### React Bootcamp Notes
