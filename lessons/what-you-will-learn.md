@@ -21,7 +21,7 @@ React is an awesome library to work with, and we won't be covering every single 
 - [ ] State & Lifecycle methods
 - [ ] props vs state
 - [ ] Concept of Virtual DOM in React
-- [ ] Building a counter app using class components
+- [ ] Building a counter app
 - [ ] Data fetching in React
 - [ ] Final thoughts
 

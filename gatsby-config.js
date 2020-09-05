@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Intro to React",
-    subtitle: "Learn how to use React",
-    description: "React bootcamp @GirlScript-Gujarat by Darsh Shah.",
+    title: "Intro to React 🔖",
+    subtitle: "Learn how to work with React 🚀",
+    description: "React bootcamp @GirlScript-Gujarat Summit by Darsh Shah.",
     keywords: [
       "react",
       "hooks",
